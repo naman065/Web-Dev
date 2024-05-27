@@ -1,0 +1,23 @@
+body {background-color: rgb(211, 238, 54);}
+input[type=text] {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  box-sizing: border-box;
+  box-shadow: 0cqb;
+  background-color: rgb(143, 246, 74);
+}
+button[type=submit]{
+  background-color: aquamarine;
+  padding: 8px 15px;
+  margin: 8px 0;
+}
+button[type=button]{
+  background-color: rgb(49, 218, 236);
+  padding: 8px 15px;
+  margin: 8px 0;
+}
+#todos{
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
